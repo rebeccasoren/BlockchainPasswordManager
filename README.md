@@ -1,4 +1,4 @@
-# Password Management System using Blockchain
+# Credential Storage Application using Blockchain
 
 React Application for managing passwords using Smart Contracts, deployed on a private Blockchain Network.
 
