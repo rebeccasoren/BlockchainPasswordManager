@@ -13,7 +13,7 @@
     "concurrently": "^5.2.0",
     "fs-extra": "^9.0.0",
     "keythereum": "^1.0.4",
-    "mocha": "^7.1.1",
+    "mocha": "^10.1.0",
     "next": "^9.3.5",
     "next-routes": "^1.4.2",
     "react": "^16.13.1",
